@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: block;
+    background: #92c667;
+    margin: 8px;
+}
+header {
+    width: 1000px;
+    height: 100px;
+    padding: 10px;
+    background: brown;
+    margin: auto;
+    position: relative;
+    display: block;
+}
+#logo {
+    position: absolute;
+    padding-left: 50px;
+}
+h1 {
+    color: #ffff;
+    padding-left: 150px;
+    text-transform: uppercase;
+    font-family: 'Bungee', cursive;
+}
+.Botones {
+    position: absolute;
+    right: 0px;
+    top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    color: #ffff;
+    cursor:copy;
+}
+#c {
+    background: #12B12F;
+    right: 190px;
+    font-family: 'Bungee', cursive;
+}
+#b {
+    background: #0064FF;
+    right: 100px;
+    font-family: 'Bungee', cursive;
+}
+#a {
+    background: #FF0004;
+    right: 10px; 
+    font-family: 'Bungee', cursive; 
+}
+#botonera {
+    width: 1000px;
+    text-decoration: none;
+    background: #0033FF;
+    margin: auto;
+    overflow: hidden;   
+    text-align: center;
+}
+#botonera ul {
+    list-style: none;   
+}
+#botonera li {
+    display: inline-block;
+}
+#botonera a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 25px;
+    font-size: 15px;
+}
+#botonera a:hover {
+    background: black;
+    color: yellow;
+}
+#section {
+    width: 1000px;
+    padding: 10px;
+    margin: auto;
+    background: #8ad6dd;
+    font-family: tahoma;
+    color: black;
+}
+#article {
+    display: block;
+}
+section {
+    width: 1000px;
+    padding: 10px;
+    margin: auto;
+    background: #8ad6dd;
+    font-family: tahoma;
+    color: black;
+    overflow: hidden;
+}
+h3 {
+    margin: auto;
+    font-family: 'Bungee', cursive;
+}
+h4 {
+    margin: auto;
+    padding: 15px;
+    font-family: 'Bungee', cursive;    
+}
+table {
+    border: 2px solid #0033FF;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+table td {
+    border: 1px solid #0033FF;
+    padding: 10px;
+}
+#cursos td {
+    display: block;
+    
+}
+footer {
+    width: 1000px;
+    background: #4C3518;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+#boton-pie {
+    text-align: center;
+    color: white;
+}
+#boton-pie ul {
+    list-style: none;
+}
+#boton-pie li {
+    display: inline;
+}
+#boton-pie a {
+    color: yellow;
+}
+
+
+
+
+ 
